@@ -1,0 +1,28 @@
+name: robenmarie
+favicon: null
+layout_spectrum: 0.6187153172213584
+typography_spectrum: 0.5355123314075172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.36507022893056273
+  lightness: 0.29682967462576926
+  saturation: 0.9313476977404207
+  rhythmicContrast: 0.05981048080138862
+purpose: []
