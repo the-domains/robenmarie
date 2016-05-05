@@ -1,6 +1,6 @@
 name: robenmarie
 favicon: null
-layout_spectrum: 0.6187153172213584
+layout_spectrum: 0.83923
 typography_spectrum: 0.5355123314075172
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#4b3216'
   brandStrength: 0.375
   lightness: 0.29682967462576926
-  saturation: 0.9313476977404207
+  saturation: 0.75
   rhythmicContrast: 0.05981048080138862
 purpose: []
