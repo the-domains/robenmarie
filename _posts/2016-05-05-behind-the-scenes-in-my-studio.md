@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Behind the Scenes in My Studio
-datePublished: '2016-05-05T22:37:08.236Z'
-dateModified: '2016-05-05T22:36:59.849Z'
+datePublished: '2016-05-05T22:54:35.202Z'
+dateModified: '2016-05-05T22:54:07.465Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 sourcePath: _posts/2016-05-05-behind-the-scenes-in-my-studio.md
-starred: false
+starred: true
 url: behind-the-scenes-in-my-studio/index.html
 _type: Blurb
 
